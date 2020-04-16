@@ -1,0 +1,1 @@
+C:/Program Files (x86)/WinDirStat/windirstat.exe,C:/xampp/xampp-control.exe,E:/My Sai/sai.exe,
